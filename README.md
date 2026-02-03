@@ -129,5 +129,9 @@ This project is licensed under the MIT License. The included mlx-vlm modificatio
 ## Acknowledgments
 
 - [ChandraOCR](https://huggingface.co/datalab-to/chandra) - The OCR model and its [MLX-version](https://huggingface.co/mlx-community/chandra-bf16)
+
+This project provides an alternative inference backend for the Chandra OCR model.
+Chandra is developed by [Datalab](https://www.datalab.to/) and licensed separately under Apache-2.0 (code) and Open-RAIL-M (model weights).
+
 - [mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - Vision-language model framework for MLX
 - [Apple MLX](https://github.com/ml-explore/mlx) - Machine learning framework for Apple Silicon
